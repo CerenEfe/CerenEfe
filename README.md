@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Ceren
 - 👀 I’m interested in Mobile App Developer
 - 🌱 I’m currently learning Flutter and Swift
-- 📫 How to reach me cerenefe532@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/ceren-efe-/
 
 
 <!---
