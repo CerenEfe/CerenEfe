@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Ceren
-- 👀 I’m interested in mobile developer
+- 👀 I’m interested in Mobile developer
 - 🌱 I’m currently learning Flutter and Swift
 - 📫 How to reach me cerenefe532@gmail.com
 
