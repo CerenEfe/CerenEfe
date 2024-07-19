@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Ceren
 - 👀 I’m interested in Mobile App Developer
-- 🌱 I’m currently learning Flutter and Swift
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me https://www.linkedin.com/in/ceren-efe-/
 
 
