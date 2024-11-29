@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Ceren
-- 👀 I’m interested in Mobile App Developer
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Mobile App and Frontend Developer
+- 🌱 I’m currently learning Flutter and Javascript
 - 📫 How to reach me https://www.linkedin.com/in/ceren-efe-/
 
 
